@@ -62,6 +62,8 @@ nav:
 extra_css:
   - stylesheets/extra.css
 extra:
+  version:
+    provider: mike
   analytics:
     provider: google
     property: UA-56382716-14
