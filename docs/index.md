@@ -1,5 +1,5 @@
 ---
-title: Opni - AIOps for Kubernetes
+title: Opni - AIOps for Kubernetes (test v0.2)
 ---
  
 Opni = AIOps for Kubernetes + logging + monitoring. 
